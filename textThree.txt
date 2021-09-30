@@ -1,0 +1,2 @@
+This is my 3rd test. 
+This should be an uncommited document, which has not yet been added to a staging area. 
