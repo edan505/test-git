@@ -1,2 +1,9 @@
 This is my 3rd test. 
 This should be an uncommited document, which has not yet been added to a staging area. 
+
+Personal email as the primary email
+and then work emails as the secondary email address... 
+
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIINaY2iNyG2hcxt+YQtR6Po/BfkEt7hbkJKsuv5RUyJ0 edan505123@gmail.com
